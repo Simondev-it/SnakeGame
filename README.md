@@ -8,7 +8,7 @@
 
 * BEFORE START GAME
   
- ![image alt](https://github.com/Simondev-it/SnakeGame/blob/a28d4b65eaf9d02e209ea0a8aff5bae281def790/Sceenshot2.png)
+ ![image alt](https://github.com/Simondev-it/SnakeGame/blob/70a037f4ae688daab551e53cf648f3a6b7b53e96/Sceenshot4.png)
  
 * WHEN START GAME
   
