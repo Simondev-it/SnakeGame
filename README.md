@@ -8,7 +8,7 @@
 
 * BEFORE START GAME
   
- ![image alt](https://github.com/Simondev-it/SnakeGame/blob/70a037f4ae688daab551e53cf648f3a6b7b53e96/Sceenshot4.png)
+  ![image alt](https://github.com/Simondev-it/SnakeGame/blob/70a037f4ae688daab551e53cf648f3a6b7b53e96/Sceenshot4.png)
  
 * WHEN START GAME
   
@@ -16,6 +16,6 @@
   
 * WHEN GAMEOVER
   
- ![image alt](https://github.com/Simondev-it/SnakeGame/blob/3b664ad0465445ec35a1be1579b6625eb4a0147e/Sceenshot3.png)
+  ![image alt](https://github.com/Simondev-it/SnakeGame/blob/3b664ad0465445ec35a1be1579b6625eb4a0147e/Sceenshot3.png)
 
 ### 2024 Simon-Dev / FPT student 
