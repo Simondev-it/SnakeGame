@@ -4,7 +4,7 @@
 
 * The game build by C#
 * gitignore file for Visual Studio project
-* About Project
+* You can download and experience it with the exe file above.
 
 * BEFORE START GAME
   
